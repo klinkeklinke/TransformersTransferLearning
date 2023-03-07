@@ -1,3 +1,3 @@
 # TransformersTransferLearning
 
-Author: Patryk Pilarski
+Notebook Author: Patryk Pilarski
